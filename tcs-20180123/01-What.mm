@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="Rust-av" FOLDED="false" ID="ID_1596387026" CREATED="1516524201301" MODIFIED="1516524209988" STYLE="oval">
 <font SIZE="18"/>
-<hook NAME="MapStyle">
+<hook NAME="MapStyle" zoom="2.0">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
 
 <map_styles>
@@ -64,7 +64,7 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="4" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="A multimedia toolkit written in pure rust" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1769599142" CREATED="1516527093610" MODIFIED="1516531268204">
+<node TEXT="A multimedia toolkit written in pure rust" LOCALIZED_STYLE_REF="styles.subtopic" FOLDED="true" POSITION="right" ID="ID_1769599142" CREATED="1516527093610" MODIFIED="1516531268204">
 <edge COLOR="#00ff00"/>
 <richcontent TYPE="DETAILS">
 
@@ -198,7 +198,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="An experiment" LOCALIZED_STYLE_REF="styles.subtopic" POSITION="right" ID="ID_1682468314" CREATED="1516527384157" MODIFIED="1516531802755">
+<node TEXT="An experiment" LOCALIZED_STYLE_REF="styles.subtopic" FOLDED="true" POSITION="right" ID="ID_1682468314" CREATED="1516527384157" MODIFIED="1516531802755">
 <edge COLOR="#ff00ff"/>
 <richcontent TYPE="DETAILS">
 

@@ -2,8 +2,8 @@
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="Rust" FOLDED="false" ID="ID_1356824195" CREATED="1516514355988" MODIFIED="1516514363912" STYLE="oval">
 <font SIZE="18"/>
-<hook NAME="MapStyle">
-    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
+<hook NAME="MapStyle" zoom="2.0">
+    <properties fit_to_viewport="false" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -239,7 +239,7 @@
 <node TEXT="Icing on top" ID="ID_1390925710" CREATED="1483860577850" MODIFIED="1483860581627"/>
 </node>
 </node>
-<node TEXT="With less marketing" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1273216745" CREATED="1483018678672" MODIFIED="1508841074616"><richcontent TYPE="DETAILS">
+<node TEXT="With less marketing" LOCALIZED_STYLE_REF="styles.subtopic" FOLDED="true" ID="ID_1273216745" CREATED="1483018678672" MODIFIED="1508841074616"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -469,7 +469,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Patterns" LOCALIZED_STYLE_REF="styles.subsubtopic" FOLDED="true" ID="ID_1968784137" CREATED="1483860106325" MODIFIED="1484016618834"><richcontent TYPE="DETAILS">
+<node TEXT="Patterns" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1968784137" CREATED="1483860106325" MODIFIED="1484016618834"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -482,7 +482,7 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="Destructure" FOLDED="true" ID="ID_1328922771" CREATED="1483860158018" MODIFIED="1483911171688">
+<node TEXT="Destructure" ID="ID_1328922771" CREATED="1483860158018" MODIFIED="1483911171688">
 <node TEXT="In variable binding" ID="ID_350902721" CREATED="1483909653229" MODIFIED="1483911171688" HGAP_QUANTITY="19.24999984353781 pt" VSHIFT_QUANTITY="70.49999789893633 pt"><richcontent TYPE="DETAILS">
 
 <html>
@@ -523,7 +523,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="Express ranges" FOLDED="true" ID="ID_1419078909" CREATED="1483909479657" MODIFIED="1484012663449" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-12.7499996200204 pt">
+<node TEXT="Express ranges" ID="ID_1419078909" CREATED="1483909479657" MODIFIED="1484012663449" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-12.7499996200204 pt">
 <node ID="ID_1615402986" CREATED="1483911198714" MODIFIED="1484006419459"><richcontent TYPE="NODE">
 
 <html>
@@ -664,9 +664,9 @@
 </node>
 </node>
 </node>
-<node TEXT="Why people use it" LOCALIZED_STYLE_REF="styles.topic" POSITION="right" ID="ID_467056010" CREATED="1516514365380" MODIFIED="1516522032525">
+<node TEXT="Why people uses it" LOCALIZED_STYLE_REF="styles.topic" FOLDED="true" POSITION="right" ID="ID_467056010" CREATED="1516514365380" MODIFIED="1516732549103">
 <edge COLOR="#ff0000"/>
-<node TEXT="Strong Code Behaviour warranties" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1704563054" CREATED="1516514490971" MODIFIED="1516522041002">
+<node TEXT="Strong Code Behaviour warranties" LOCALIZED_STYLE_REF="styles.subtopic" FOLDED="true" ID="ID_1704563054" CREATED="1516514490971" MODIFIED="1516522041002">
 <node TEXT="No more faulty memory access" ID="ID_1004243399" CREATED="1516514505643" MODIFIED="1516515019444"><richcontent TYPE="DETAILS">
 
 <html>
@@ -679,7 +679,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Fearless concurrency" ID="ID_1635722352" CREATED="1516514541626" MODIFIED="1516514730695"><richcontent TYPE="DETAILS">
@@ -694,7 +693,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="No (or Less) undefined behaviour" ID="ID_1855798336" CREATED="1516514580061" MODIFIED="1516514816219"><richcontent TYPE="DETAILS">
@@ -709,12 +707,11 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
-<node TEXT="Good tooling" LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_681282030" CREATED="1516514818496" MODIFIED="1516522047089">
-<node TEXT="Cross compiling everywhere" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_510215060" CREATED="1516514830432" MODIFIED="1516522064278"><richcontent TYPE="DETAILS">
+<node TEXT="Good tooling" LOCALIZED_STYLE_REF="styles.subtopic" FOLDED="true" ID="ID_681282030" CREATED="1516514818496" MODIFIED="1516522047089">
+<node TEXT="Cross compiling everywhere" LOCALIZED_STYLE_REF="styles.subsubtopic" FOLDED="true" ID="ID_510215060" CREATED="1516514830432" MODIFIED="1516522064278"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -726,9 +723,8 @@
     </p>
   </body>
 </html>
-
 </richcontent>
-<node TEXT="Embedded" ID="ID_1389506847" CREATED="1516515389792" MODIFIED="1516517716968"><richcontent TYPE="DETAILS">
+<node TEXT="Embedded" ID="ID_1389506847" CREATED="1516515389792" MODIFIED="1516726041354"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -736,14 +732,13 @@
   </head>
   <body>
     <p>
-      Rust can build freestanding binaries thanks to the <b>nostd</b>&#160;config flag and <b>cargo</b>&#160;is incorporating the richer <b>xargo</b>&#160; abilities during this <a href="https://github.com/japaric/xargo/issues/193">year</a>.
+      Rust can build freestanding binaries thanks to the <b>nostd</b>&#160;config flag and <b>cargo</b>&#160;is incorporating the richer <b>xargo</b>&#160;<a href="https://github.com/rust-lang/cargo/issues/4959">abilities</a>&#160;during this <a href="https://github.com/japaric/xargo/issues/193">year</a>.
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
-<node TEXT="Webasm" ID="ID_928476972" CREATED="1516515394192" MODIFIED="1516517949774"><richcontent TYPE="DETAILS">
+<node TEXT="Webasm" ID="ID_928476972" CREATED="1516515394192" MODIFIED="1516726052408"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -751,15 +746,14 @@
   </head>
   <body>
     <p>
-      web assembly is one of the most recent and interesting targets available through LLVM, the rust toolchain had been one of the first to try to <a href="https://github.com/aturon/rust-wasm">support</a>&#160; it as a first class citizen
+      web assembly is one of the most recent and interesting targets available through LLVM, the rust toolchain had been one of the first to try to <a href="https://github.com/aturon/rust-wasm">support</a>&#160;it as a first class citizen
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
-<node TEXT="Frictionless coding" LOCALIZED_STYLE_REF="styles.subsubtopic" ID="ID_1327068235" CREATED="1516514840559" MODIFIED="1516522069372"><richcontent TYPE="DETAILS">
+<node TEXT="Frictionless coding" LOCALIZED_STYLE_REF="styles.subsubtopic" FOLDED="true" ID="ID_1327068235" CREATED="1516514840559" MODIFIED="1516522069372"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -771,7 +765,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Crates.io" ID="ID_1292574270" CREATED="1516518093058" MODIFIED="1516518166386"><richcontent TYPE="DETAILS">
 
@@ -785,7 +778,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Cargo" ID="ID_1580126806" CREATED="1516518098169" MODIFIED="1516518196106"><richcontent TYPE="DETAILS">
@@ -800,7 +792,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="RLS" ID="ID_1144754913" CREATED="1516518203182" MODIFIED="1516518386790"><richcontent TYPE="DETAILS">
@@ -815,7 +806,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
